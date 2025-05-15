@@ -1,8 +1,8 @@
 # Exercise-7-Read-and-Extract-Text-from-PDF
 
 ~~~
-Name : M.JohnPall 
-Reg.No : 212224040140 
+Name : Kavi M S
+Reg.No : 212223220044
 ~~~
 
 ## Aim
